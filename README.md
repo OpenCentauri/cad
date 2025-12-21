@@ -5,6 +5,10 @@ CAD model of the Centauri Carbon
 Live Viewer available here on the [Opencentauri Docs](https://docs.opencentauri.cc/hardware/CC1/)
 
 
+
+https://github.com/user-attachments/assets/0ed5f8c5-8805-440e-aed6-0f10b0649171
+
+
 **Credits**
 
 Elegoo: Provided official models for Z axis, X axis, and toolhead plastic parts
